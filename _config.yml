@@ -1,0 +1,28 @@
+name: Observing Typography
+favicon: null
+layout_spectrum: 0.5872575568500906
+typography_spectrum: 0.889048462966457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5566827107686549
+  lightness: 0.29967956664040685
+  saturation: 0.9768609770108014
+  rhythmicContrast: 0.10776775679551065
+purpose: []
